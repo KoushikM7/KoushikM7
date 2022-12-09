@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **Python,Software Architecture,C/C++/C#**
+- 💬 Ask me about **Python,Software Architecture,Data Structures/Algorithms,C/C++/C#**
 
 - 📫 How to reach me **koushikmanjunath7760@gmail.com**
 
