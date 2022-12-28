@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter,ReactJS and JavaScript**
 
 - 👯 I’m looking to collaborate on **Python Projects,C++ Development and JavaScript**
 
