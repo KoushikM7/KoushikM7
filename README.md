@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikm7&label=Profile%20views&color=0e75b6&style=flat" alt="koushikm7" /> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Data Engineering & Analytics pipelines with AWS, Airflow, and PySpark**
 
-- 🌱 I’m currently learning **Flutter,ReactJS and JavaScript**
+- 🌱 I’m currently learning **Advanced Cloud Architectures, Real-Time Data Processing, and Full-Stack Web Development (React + Node.js)**
 
-- 👯 I’m looking to collaborate on **Python Projects,C++ Development and JavaScript**
+- 👯 I’m looking to collaborate on **End-to-End Analytics Projects, ETL Pipelines, and Full-Stack Web Applications**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **Optimizing Cloud Workflows, QuickSight Dashboards, and Scalable Data Architectures**
 
-- 💬 Ask me about **Python,Software Architecture,Data Structures/Algorithms,C/C++/C#**
+- 💬 Ask me about **Python, SQL, PySpark, Airflow, AWS (S3, Redshift, Lambda), Data Visualization, and Full-Stack Development with React**
 
 - 📫 How to reach me **koushikmanjunath7760@gmail.com**
 
